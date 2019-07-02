@@ -10,13 +10,13 @@
     "input",
     "range"
   ],
-  "homepage": "http://github.com/AbleTech/slider/",
+  "homepage": "http://github.com/abletech/slider/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/AbleTech/slider.git"
+    "url": "git://github.com/abletech/slider.git"
   },
   "bugs": {
-    "url": "http://github.com/AbleTech/slider/issues"
+    "url": "http://github.com/abletech/slider/issues"
   },
   "files": [
     "assets/*.css",
